@@ -1,1 +1,1 @@
-# Awesome-Self-Supervised-Micro-Image-Denoise
+# <p align=center>`Awesome LLM/MLLM for Image Segmentation`</p>
