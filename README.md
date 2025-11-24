@@ -76,7 +76,7 @@ We organize all current microscopic self-supervised methods into the following f
   - *Nature Methods 2024*
   - [[Paper](https://www.nature.com/articles/s41592-024-02400-9)] [[Code](https://github.com/WeisongZhao/SN2N/)]
 
-- **SDRTrans: Spatial redundancy transformer for self-supervised fluorescence image denoising**
+- **SRDTrans: Spatial redundancy transformer for self-supervised fluorescence image denoising**
   - *Nature Computational Science 2023*
   - [[Paper](https://www.nature.com/articles/s43588-023-00568-2)] [[Code](https://github.com/cabooster/SRDTrans)]
 
