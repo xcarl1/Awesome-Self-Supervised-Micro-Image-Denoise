@@ -41,7 +41,7 @@ We organize all current microscopic self-supervised methods into the following f
 
 - **TeD: Self-supervised denoising of dynamic fluorescence images via temporal gradient-empowered deep learning**
   - *Photonix 2025*
-  - [[Paper](https://www.photonix.cn/en/article/doi/10.1186/s43074-025-00173-8)]
+  - [[Paper](https://www.photonix.cn/en/article/doi/10.1186/s43074-025-00173-8)] [[Code](https://github.com/BoomLab-wlee/TeD)]
 
 ## 2. Blind-Spot Convolution Based
 > **Core Idea:** Structural masking (BS-Conv).
