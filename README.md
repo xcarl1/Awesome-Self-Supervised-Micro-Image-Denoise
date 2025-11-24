@@ -68,17 +68,17 @@ We organize all current microscopic self-supervised methods into the following f
 ## 4. Spatial Sampling Based
 > **Core Idea:** Spatial redundancy / Subsampling.
 
-- **FAST: Real-time self-supervised denoising for highspeed fluorescence neural imaging**
-  - *Nature Communications 2025*
-  - [[Paper](https://www.nature.com/articles/s41467-025-64681-8)] [[Code](https://github.com/FDU-donglab/FAST)]
+- **SRDTrans: Spatial redundancy transformer for self-supervised fluorescence image denoising**
+  - *Nature Computational Science 2023*
+  - [[Paper](https://www.nature.com/articles/s43588-023-00568-2)] [[Code](https://github.com/cabooster/SRDTrans)]
 
 - **SN2N: Self-inspired learning for denoising live-cell super-resolution**
   - *Nature Methods 2024*
   - [[Paper](https://www.nature.com/articles/s41592-024-02400-9)] [[Code](https://github.com/WeisongZhao/SN2N/)]
 
-- **SRDTrans: Spatial redundancy transformer for self-supervised fluorescence image denoising**
-  - *Nature Computational Science 2023*
-  - [[Paper](https://www.nature.com/articles/s43588-023-00568-2)] [[Code](https://github.com/cabooster/SRDTrans)]
+- **FAST: Real-time self-supervised denoising for highspeed fluorescence neural imaging**
+  - *Nature Communications 2025*
+  - [[Paper](https://www.nature.com/articles/s41467-025-64681-8)] [[Code](https://github.com/FDU-donglab/FAST)]
 
 ---
 
