@@ -56,7 +56,7 @@ We organize all current microscopic self-supervised methods into the following f
  
 - **Machine Learning Pipeline for Denoising Low Signal-ToNoise Ratio and Out-of-Distribution Transmission Electron Microscopy Datasets**
    - *arXiv2025*
-   - [[paper](https://arxiv.org/abs/2512.04045)] [[code](https://github.com/CFN-ETEM/HRTEM_denoising_model)]
+   - [[Paper](https://arxiv.org/abs/2512.04045)] [[Code](https://github.com/CFN-ETEM/HRTEM_denoising_model)]
 
 ## 3. Neighboring Frame Based
 > **Core Idea:** Frame interpolation / Odd-Even prediction.
@@ -71,6 +71,10 @@ We organize all current microscopic self-supervised methods into the following f
 
 ## 4. Spatial Sampling Based
 > **Core Idea:** Spatial redundancy / Subsampling.
+
+- **Noise2Fast：A fast blind zero-shot denoiser**
+   - *Nature Machine Intelligence 2022*
+   - [[Paper](https://www.nature.com/articles/s42256-022-00547-8)] [[Code](https://github.com/pelletierlab/Noise2Fast)]
 
 - **SRDTrans: Spatial redundancy transformer for self-supervised fluorescence image denoising**
   - *Nature Computational Science 2023*
