@@ -53,6 +53,10 @@ We organize all current microscopic self-supervised methods into the following f
 - **SUPPORT: Statistically unbiased prediction enables accurate denoising of voltage imaging data**
   - *Nature Methods 2023*
   - [[Paper](https://www.nature.com/articles/s41592-023-02005-8)] [[Code](https://github.com/NICALab/SUPPORT)]
+ 
+- **Machine Learning Pipeline for Denoising Low Signal-ToNoise Ratio and Out-of-Distribution Transmission  Electron Microscopy Datasets*
+   - *arXiv2025*
+   - [[paper](https://arxiv.org/abs/2512.04045)] [[code](https://github.com/CFN-ETEM/HRTEM_denoising_model)]
 
 ## 3. Neighboring Frame Based
 > **Core Idea:** Frame interpolation / Odd-Even prediction.
